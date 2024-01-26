@@ -8239,8 +8239,10 @@ textarea.form-control-lg {
 }
 
 .text-muted {
+  text-indent: 25px;
+  text-align: justify;
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: black !important;
 }
 
 .text-black-50 {
